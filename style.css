@@ -1,0 +1,58 @@
+body {
+    background-image: url(images/background.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Alkalami', serif !important;
+}
+
+.header{
+    text-align: center;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+h1 {
+    text-align: center;
+}
+
+img.center{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.float-end img {
+    width: 90%;
+    max-width: 300px;
+    height: auto;
+    margin-left : 50px;
+}
+
+.float-start img {
+    width: 90%;
+    max-width: 300px;
+    height: auto;
+    margin-right: 50px;
+}
+
+.resort {
+    background-color: rgba(0, 0, 0, 0.75);
+    color: aliceblue;
+}
+
+.resort1 img{   
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-left: 0px !important;
+}
+
+.resortcap {
+    text-align: left;
+}
